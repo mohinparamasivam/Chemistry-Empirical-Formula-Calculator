@@ -1,4 +1,5 @@
 
+
 print("                                                                       ")
 print("                                                                       ")
 print ("            #################################################" )       
@@ -111,7 +112,7 @@ if((check_3rd_atom=="Yes") or (check_3rd_atom=="yes") or (check_3rd_atom=="YES")
 
 
 
-	print(" The Empirical Formula is " + str(Atom1)+str(ratio_atom1_int)+str(Atom2)+str(ratio_atom2_int)+str(Atom3)+str(ratio_atom3_int))
+	print(" The Empirical Formula : " + str(Atom1)+str(ratio_atom1_int)+str(Atom2)+str(ratio_atom2_int)+str(Atom3)+str(ratio_atom3_int))
 
 else:
 
