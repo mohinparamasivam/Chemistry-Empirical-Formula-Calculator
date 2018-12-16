@@ -10,11 +10,10 @@ Usage :
 
 1) git clone https://github.com/mohinparamasivam/Chemistry-Empirical-Formula-Calculator.git
 2) cd Chemistry-Empirical-Formula-Calculator
-3) chmod +x Empirical.py
-4) ./Empirical.py
+3) python3 Empirical.py
 
 
-<h4> You could run this program by this alternative command without making the file executable</h4>
 
-python3 Empirical.py
+
+
           
